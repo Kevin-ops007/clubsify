@@ -12,6 +12,8 @@
 # production
 /frontend/build
 
+/backend/api/__pycachec__/
+
 # misc
 .DS_Store
 .env.local
