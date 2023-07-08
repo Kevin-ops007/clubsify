@@ -4,7 +4,7 @@
 /frontend/node_modules
 /frontend/.pnp
 /frontend/.pnp.js
-/frontend/package-lock.json
+/frontend/package*.json
 
 # testing
 /frontend/coverage
@@ -12,7 +12,9 @@
 # production
 /frontend/build
 
-/backend/api/__pycachec__/
+/backend/api/__pycachec__
+
+/backend/__pycachec__
 
 # misc
 .DS_Store
